@@ -301,6 +301,7 @@ body{
     padding-right: 40px;
     margin-bottom: 0;
     /* margin-right: 1px; */
+    opacity: 0.74;
 }
 #sbld{
     color: #b13e3e;
