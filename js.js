@@ -169,7 +169,6 @@ function pagetab3() {
   console.log('3');
   page1.style.display = "none";
   page2.style.display = 'none';
-  page3.style.display = '';
-  
+  page3.style.display = ''; 
 }
 
